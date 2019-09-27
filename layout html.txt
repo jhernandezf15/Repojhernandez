@@ -1,0 +1,1 @@
+A mi me ha gustado el flexbox porque creo que se adapta mejor que resto de layouts.
